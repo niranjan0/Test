@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b956d531-fcbd-4ac4-b09f-1fe4fcd4874c" name="Default" comment="" />
+    <list default="true" id="b956d531-fcbd-4ac4-b09f-1fe4fcd4874c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/CirculerSortedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/Foo$Bar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/Foo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/NumberOfWaysCoinProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/PalindromePermutationOfString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/PermutationOfString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/Program$BST.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/Stringmatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/CirculerSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/NumberOfWaysCoinProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/PalindromePermutationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/PermutationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/Stringmatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/NiranjanArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/RemoveDuplicateFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/com/datastructure/niranjan/RemoveDuplicateFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +40,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            <state relative-caret-position="154">
+              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,21 +49,103 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeTraversal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/TreeTraversal.java">
+      <file leaf-file-name="RemoveDuplicateFromArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+            <state relative-caret-position="138">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CirculerSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/CirculerSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+              <folding>
+                <element signature="method#noOfRotation#0;class#CirculerSortedArray#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePermutationOfString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/PalindromePermutationOfString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/Program.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOfWaysCoinProblem.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/NumberOfWaysCoinProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="method#countNoOfWays#0;class#NumberOfWaysCoinProblem#0" />
+                <element signature="method#countNoOfWaysDP#0;class#NumberOfWaysCoinProblem#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NiranjanArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#403#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stringmatch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/Stringmatch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutationOfString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/PermutationOfString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TreeTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/TreeTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#postOrder#0;class#TreeTraversal#0" />
-                <element signature="e#655#661#0" expanded="true" />
-                <element signature="e#1540#1546#0" expanded="true" />
-                <element signature="e#1586#1592#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,23 +167,33 @@
       <find>getFirstArrayCount</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/UglyNumber.java" />
         <option value="$PROJECT_DIR$/src/com/company/Manager.java" />
         <option value="$PROJECT_DIR$/src/com/company/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java" />
         <option value="$PROJECT_DIR$/src/com/Leetcode1.java" />
         <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/Leetcode2.java" />
-        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java" />
         <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/ValidParanthesis.java" />
         <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/OneEditAway.java" />
         <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/company/Factorial.java" />
         <option value="$PROJECT_DIR$/src/com/company/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/TreeTraversal.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/Foo.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/Stringmatch.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/PermutationOfString.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/PalindromePermutationOfString.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/Program.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/CirculerSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/datastructure/niranjan/NumberOfWaysCoinProblem.java" />
       </list>
     </option>
   </component>
@@ -97,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +252,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,7 +299,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -193,12 +309,12 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33169934" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24019608" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31694403" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34795764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -285,61 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Manager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6324">
-          <caret line="416" column="68" selection-start-line="416" selection-start-column="68" selection-end-line="416" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/UglyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -389,9 +450,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -441,9 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,9 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -558,13 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Leetcode1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -596,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/OneEditAway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="36" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -610,50 +645,117 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/TreeTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <caret line="79" column="14" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#postOrder#0;class#TreeTraversal#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/OneEditAway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/PermutationOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/Stringmatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/NiranjanArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="method#fibTabulization#0;class#Fibonacci#0" />
+            <element signature="e#0#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/PalindromePermutationOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/RemoveDuplicateFromArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/CirculerSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="54" column="30" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding>
+            <element signature="method#noOfRotation#0;class#CirculerSortedArray#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        <state relative-caret-position="154">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/TreeTraversal.java">
+    <entry file="file://$PROJECT_DIR$/src/com/datastructure/niranjan/NumberOfWaysCoinProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="79" column="14" lean-forward="true" selection-start-line="79" selection-start-column="14" selection-end-line="79" selection-end-column="14" />
+        <state relative-caret-position="136">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="method#postOrder#0;class#TreeTraversal#0" />
-            <element signature="e#655#661#0" expanded="true" />
-            <element signature="e#1540#1546#0" expanded="true" />
-            <element signature="e#1586#1592#0" expanded="true" />
+            <element signature="method#countNoOfWays#0;class#NumberOfWaysCoinProblem#0" />
+            <element signature="method#countNoOfWaysDP#0;class#NumberOfWaysCoinProblem#0" />
           </folding>
         </state>
       </provider>
