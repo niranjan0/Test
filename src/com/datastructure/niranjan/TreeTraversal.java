@@ -1,5 +1,7 @@
 package com.datastructure.niranjan;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Stack;
 
@@ -27,6 +29,7 @@ public class TreeTraversal {
         right = null;
     }
     }
+    HashMap <String,ArrayList<String>> hmap = new HashMap<>();
     public void postOrder(Node root) {
 
         Node current = root;

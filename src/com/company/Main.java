@@ -1,28 +1,18 @@
 package com.company;
 
-import com.datastructure.niranjan.*;
-import com.sun.javafx.runtime.SystemProperties;
+import com.datastructure.niranjan.AddingOnetoAnArray;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+class Main {
+    public static void main(String [] args) {
 
+        int [] array ={9,9,9,9};
 
-public class Main {
+        AddingOnetoAnArray addingOnetoAnArray = new AddingOnetoAnArray();
+        int [] result = addingOnetoAnArray.addOneSecond(array);
 
-public static void main(String [] args) {
+        for(int elem:result) {
+            System.out.print(elem +" ");
+        }
 
-          int [] sortedarray = {5,6,7,8,9,10,11,12,1,2,3,4};
-       CirculerSortedArray carr = new CirculerSortedArray();
-       int n = carr.noOfRotation(sortedarray);
-
-       int n1 = carr.elementIndex(sortedarray,8);
-
-
-        System.out.print(n1);
-
-
-}
-
-}
+    }
+} // Contributed by Aakash Hasija

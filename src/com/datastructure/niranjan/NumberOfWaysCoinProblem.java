@@ -18,7 +18,7 @@ public class NumberOfWaysCoinProblem {
         //System.out.println("udyuc"+target);
         return countNoOfWays(change,coinvalue-1,target) + countNoOfWays(change,coinvalue,target-change[coinvalue-1]);
     }
-    public int countNoOfWaysDP(int [] change,int coinvalue,int target) {
+    public int countNoOfWaysDP(int [] change,int target) {
 
         int [] memoizeddata = new int[target+1];
         Arrays.fill(memoizeddata,0);
