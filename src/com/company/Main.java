@@ -1,18 +1,19 @@
 package com.company;
 
-import com.datastructure.niranjan.AddingOnetoAnArray;
+import com.company.MultiThreading.Synchronization.*;
+import com.datastructure.URLParsing.UrlParsing;
+import com.datastructure.niranjan.HeapSort;
+import com.datastructure.niranjan.PowersetOfArray;
+
+import java.util.ArrayList;
+
 
 class Main {
-    public static void main(String [] args) {
 
-        int [] array ={9,9,9,9};
+    public static void main(String [] args)  throws Exception {
 
-        AddingOnetoAnArray addingOnetoAnArray = new AddingOnetoAnArray();
-        int [] result = addingOnetoAnArray.addOneSecond(array);
-
-        for(int elem:result) {
-            System.out.print(elem +" ");
-        }
+        UrlParsing urlParsing = new UrlParsing();
+        urlParsing.dataParsing("https://api.github.com/users/codemazeblog");
 
     }
 } // Contributed by Aakash Hasija

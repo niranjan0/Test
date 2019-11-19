@@ -15,6 +15,7 @@ public class PowersetOfArray {
             System.out.println("length =="+length);
             System.out.println("subset size"+subsets.size());
             for(int j=0;j<length;j++) {
+                System.out.println("coming");
                // System.out.println("for each elem "+j);
                 ArrayList<Integer> currentsubset = new ArrayList<Integer>(subsets.get(j));
                 //System.out.println();
