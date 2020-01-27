@@ -12,7 +12,7 @@ public class Demo {
     }
 
     public static void main(String args[]){
-        Ractangle rc = new Ractangle(2,3);
+        Ractangle rc = new Square(5);
         useIt(rc);
     }
 }

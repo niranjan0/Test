@@ -39,7 +39,7 @@ public class UrlParsing {
       //  JSONParser parse = new JSONParser();
         Object obj = new JSONParser().parse(inline);
         JSONObject jo = (JSONObject) obj;
-        String login = (String )jo.get("login");
+        Long login = (Long)jo.get("id");
         // JSONObject jobj = (JSONObject) parse.parse(inline);
         //JSONObject jobj = new JSONObject();
         System.out.println("json objects");
